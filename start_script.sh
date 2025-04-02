@@ -1,2 +1,0 @@
-conda activate phosphoros
-Phosphoros GUI

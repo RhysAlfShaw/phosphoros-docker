@@ -1,0 +1,7 @@
+name: phosphoros
+channels:
+  - conda-forge
+  - defaults
+  - astrorama
+dependencies:
+  - phosphoros

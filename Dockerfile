@@ -9,5 +9,3 @@ COPY environment.yml /work
 
 # Install my conda environmentdock
 RUN conda env create -f environment.yml
-
-ENTRYPOINT ["tail", "-f", "/dev/null"]
